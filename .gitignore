@@ -1,0 +1,18 @@
+# Exclude bag file (symlink)
+bag/
+bag
+
+# Exclude ROS generated files
+*.db
+*.db3
+*.log
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
